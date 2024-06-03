@@ -25,41 +25,55 @@ Our QB Boom or Bust Prediction uses a Random Forest Algorithm to predict whether
 
 ### Dependencies
 
-#### Python
+#### Python:
 * Our application is programmed through streamlit, a python library, so a Python interpreter needs to be installed.
 * We would recommend installing Python and Anaconda/VS Code
 
-#### Data
+#### Data:
 * For this application, we used data from Kaggle. There are several datasets that will be linked but specifically you will need 'draft.csv', 'combine.csv', 'passer.csv', and 'sacks.csv'
 * Here is the link to access the data: [Kaggle Link](https://www.kaggle.com/datasets/toddsteussie/nfl-play-statistics-dataset-2004-to-present)
-* Note: you will also need 'passing.csv' if you want to look at the model building process. That is a file that we created using aggregate commands in Postgres (attached in the .sql file).
+* Note: you will also need 'passing.csv' if you want to look at the model-building process. That is a file that we created using aggregate commands in Postgres (attached in the .sql file).
+
+#### Model:
+* The model is packaged in the 'model_f.pkl' file. You will need to import this and change the file path in your code so the program can find it.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* To launch our web application, you will first need to install a bunch of libraries
+* To do this you can use the pip install python command. Here is an example for the pandas library
+```
+pip install pandas
+```
+* You need to install the streamlit, pandas, numpy, matplotlib, seaborn, sklearn, joblib, warnings, and PIL libraries using the same format as above.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* To run the program you need to enter some commands through the terminal
+* To do this you can use the streamlit run command below:
 ```
-code blocks for commands
+streamlit run [pathname]
+```
+* For example with the pathname of our machine
+```
+streamlit run /Users/tejgaonkar/Downloads/nfl_draft_frontend.py
+```
+* Alternatively, you could change your directory to one that contains the python file and run it directly from there
+```
+cd [directory]
+```
+```
+streamlit run nfl_draft_frontend.py
+```
+* Here is an example from our machine
+```
+cd Downloads
+```
+```
+streamlit run nfl_draft_frontend.py
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+## Contributors
+Tej Gaonkar: [tagaonkar@ucdavis.edu](mailto:tagaonkar@ucdavis.edu)
 
 ## Version History
 
