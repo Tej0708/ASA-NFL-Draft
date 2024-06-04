@@ -37,6 +37,9 @@ Our QB Boom or Bust Prediction uses a Random Forest Algorithm to predict whether
 #### Model:
 * The model is packaged in the 'model_f.pkl' file. You will need to import this and change the file path in your code so the program can find it.
 
+#### Images
+* The website references several images that are attached to the repo. Replace the local pathname with your pathname when running the website.
+
 ### Installing
 
 * To launch our web application, you will first need to install a bunch of libraries
