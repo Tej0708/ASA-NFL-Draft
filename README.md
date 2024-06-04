@@ -76,10 +76,10 @@ streamlit run nfl_draft_frontend.py
 ```
 
 ## Contributors
-Tej Gaonkar (Project Manager): [tagaonkar@ucdavis.edu](mailto:tagaonkar@ucdavis.edu)
-Rahul Padhi (Developer):[rpadhi@ucdavis.edu](mailto:rpadhi@ucdavis.edu)
-Ahmed Seyam (Developer):[aaseyam@ucdavis.edu](mailto:aaseyam@ucdavis.edu)
-Harshith Karuturi (Developer):[hckaruturi@ucdavis.edu](mailto:hckaruturi@ucdavis.edu)
+* Tej Gaonkar (Project Manager): [tagaonkar@ucdavis.edu](mailto:tagaonkar@ucdavis.edu)
+* Rahul Padhi (Developer):[rpadhi@ucdavis.edu](mailto:rpadhi@ucdavis.edu)
+* Ahmed Seyam (Developer):[aaseyam@ucdavis.edu](mailto:aaseyam@ucdavis.edu)
+* Harshith Karuturi (Developer):[hckaruturi@ucdavis.edu](mailto:hckaruturi@ucdavis.edu)
 
 ## Acknowledgments
 * Project completed under [Aggie Sports Analytics](https://aggiesportsanalytics.com/) at UC Davis.
