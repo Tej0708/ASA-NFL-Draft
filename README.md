@@ -73,25 +73,10 @@ streamlit run nfl_draft_frontend.py
 ```
 
 ## Contributors
-Tej Gaonkar: [tagaonkar@ucdavis.edu](mailto:tagaonkar@ucdavis.edu)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Tej Gaonkar (Project Manager): [tagaonkar@ucdavis.edu](mailto:tagaonkar@ucdavis.edu)
+Rahul Padhi (Developer):[rpadhi@ucdavis.edu](mailto:rpadhi@ucdavis.edu)
+Ahmed Seyam (Developer):[aaseyam@ucdavis.edu](mailto:aaseyam@ucdavis.edu)
+Harshith Karuturi (Developer):[hckaruturi@ucdavis.edu](mailto:hckaruturi@ucdavis.edu)
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* Project completed under [Aggie Sports Analytics](https://aggiesportsanalytics.com/) at UC Davis.
